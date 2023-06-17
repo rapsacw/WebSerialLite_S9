@@ -1,3 +1,6 @@
+## Fork of WebSerialLite
+I've modified the webpage of WebSerialLite, you can use the original WebSerialLite library and copy my /src/indexpage.h to that library, or just use this forked library (if you use the original library then remember to check indexpage.h after each library update).
+
 # WebSerialLite
 
 WebSerial is a Serial Monitor for ESP8266 & ESP32 Microcontrollers that can be accessed remotely via a web browser. Webpage is stored in program memory of the microcontroller.
